@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('./images/pattern.jpeg');
+}
+
+
+.category h3 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes-header {
+    background-color: mediumspringgreen;
+}
+
+#frames-header {
+    background-color: lightcoral;;
+}
+
+#paints-header {
+    background-color: skyblue;
+}
+
+.item-name {
+    font-weight: bolder;
+}
+
+.description span {
+    font-weight: bold;
+    color:blue;
+}
